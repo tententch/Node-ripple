@@ -1,6 +1,9 @@
 
 # 🔬 Ripple Field Simulation (3D, Multi-Node)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tententch/Node-ripple/blob/main/RippleNet_Colab_Starter.ipynb)
+
+
 This repository contains a Python-based simulation of the **Ripple Field Theory**, as proposed in:
 
 **“Node-Induced Informational Perturbations: A Framework for Directed Entropic Ripples in Probabilistic Fields”**  
